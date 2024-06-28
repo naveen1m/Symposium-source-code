@@ -1,4 +1,4 @@
-Patient ID,Age,Sex,Medical History,Hospitalization Data,Laboratory Data,Imaging Data,Microbiology Data,Risk Factors,Symptoms,Signs,Treatment
+PatientID,Age,Sex,MedicalHistory,HospitalizationData,LaboratoryData,ImagingData,MicrobiologyData,RiskFactors,Symptoms,Signs,Treatment
 1,45,M,"Asthma, Hypertension",2023-01-05 to 2023-01-12,"Blood Test: Normal, X-ray: Clear",None,None,"Obesity, Smoking","Cough, Fever",Elevated heart rate,Antibiotics
 2,32,F,"Diabetes, Hyperthyroidism",2023-02-10 to 2023-02-18,"Blood Test: Abnormal, CT scan: Inflammation",None,Nasal swab: Positive for influenza,None,"Sore throat, Fatigue",Rapid breathing,Antiviral medication
 3,60,M,None,2023-03-15 to 2023-03-22,"Blood Test: Normal, X-ray: Clear",MRI: No abnormalities,None,None,"Headache, Dizziness",None,Rest and hydration
