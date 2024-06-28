@@ -1,0 +1,200 @@
+Patient ID,Age,Sex,Medical History,Hospitalization Data,Laboratory Data,Imaging Data,Microbiology Data,Risk Factors,Symptoms,Signs,Treatment
+1,45,M,"Asthma, Hypertension",2023-01-05 to 2023-01-12,"Blood Test: Normal, X-ray: Clear",None,None,"Obesity, Smoking","Cough, Fever",Elevated heart rate,Antibiotics
+2,32,F,"Diabetes, Hyperthyroidism",2023-02-10 to 2023-02-18,"Blood Test: Abnormal, CT scan: Inflammation",None,Nasal swab: Positive for influenza,None,"Sore throat, Fatigue",Rapid breathing,Antiviral medication
+3,60,M,None,2023-03-15 to 2023-03-22,"Blood Test: Normal, X-ray: Clear",MRI: No abnormalities,None,None,"Headache, Dizziness",None,Rest and hydration
+4,28,F,"Allergies, Asthma",2023-04-02 to 2023-04-08,Blood Test: Elevated white blood cell count,None,None,None,"Runny nose, Sneezing",None,Antihistamines
+9,50,M,"Obesity, Sleep Apnea",2023-04-18 to 2023-04-26,Blood Test: Elevated liver enzymes,None,None,"Smoking, Alcohol consumption","Fatigue, Abdominal discomfort",None,"Medications, Lifestyle changes"
+10,35,F,Migraine,2023-03-05 to 2023-03-10,Blood Test: Normal,None,None,None,"Severe headache, Nausea",Sensitivity to light,Pain relief medication
+11,42,M,"Diabetes, Hypertension",2023-05-08 to 2023-05-15,Blood Test: High blood sugar levels,None,None,None,"Fatigue, Increased thirst",None,"Medications, Blood sugar monitoring"
+12,68,F,Osteoporosis,2023-02-20 to 2023-02-28,"Blood Test: Normal, Bone density scan: Low bone mass",None,None,Sedentary lifestyle,"Bone pain, Fracture","Decreased height, Kyphosis","Medications, Physical therapy"
+13,57,M,"Hypertension, Hyperlipidemia",2023-01-15 to 2023-01-25,Blood Test: High cholesterol levels,Echocardiogram: Thickened heart walls,None,"Smoking, Sedentary lifestyle","Fatigue, Shortness of breath",High blood pressure,"Medications, Lifestyle changes"
+14,25,F,Asthma,2023-05-01 to 2023-05-08,"Blood Test: Normal, Pulmonary Function Test: Decreased lung function",None,None,"Exposure to allergens, Family history of asthma","Wheezing, Shortness of breath","Rapid breathing, Chest tightness",Inhaler medication
+15,60,M,"Coronary artery disease, Peripheral artery disease",2023-04-10 to 2023-04-20,"Blood Test: High cholesterol levels, Ankle-brachial index: Low blood flow to legs","Echocardiogram: Reduced heart function, CT angiogram: Blocked coronary arteries",None,"Smoking, Sedentary lifestyle, Family history of heart disease","Chest pain, Leg pain","Irregular heart rhythm, Weak pulse in legs","Medications, Surgery"
+16,45,F,Hypothyroidism,2023-02-28 to 2023-03-05,Blood Test: Low thyroid hormone levels,Thyroid ultrasound: Enlarged thyroid gland,None,Family history of thyroid disorders,"Fatigue, Weight gain","Dry skin, Hair loss",Thyroid hormone replacement therapy
+17,32,M,None,2023-05-12 to 2023-05-16,Blood Test: Normal,None,None,None,"Fever, Headache",None,Symptomatic treatment
+18,50,F,Breast cancer,2023-03-20 to 2023-04-02,Blood Test: Elevated tumor markers,"Mammogram: Breast mass, Breast ultrasound: Suspicious mass",None,Family history of breast cancer,"Breast lump, Breast pain",None,"Chemotherapy, Surgery"
+19,36,M,"Allergies, Eczema",2023-04-12 to 2023-04-18,Blood Test: Normal,None,None,None,"Itchy skin, Redness","Rash, Dry patches","Topical creams, Antihistamines"
+20,65,F,"Hypertension, Diabetes",2023-03-01 to 2023-03-10,"Blood Test: High blood pressure, High blood sugar levels",None,None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Blood sugar monitoring"
+21,42,M,"Asthma, Obesity",2023-05-05 to 2023-05-15,"Blood Test: Normal, Pulmonary Function Test: Decreased lung function",None,None,"Smoking, Sedentary lifestyle","Shortness of breath, Wheezing","Rapid breathing, Chest tightness","Inhaler medication, Weight management"
+22,55,F,Hypothyroidism,2023-01-10 to 2023-01-18,Blood Test: Low thyroid hormone levels,Thyroid ultrasound: Enlarged thyroid gland,None,Family history of thyroid disorders,"Fatigue, Weight gain","Dry skin, Hair loss",Thyroid hormone replacement therapy
+23,48,M,"Diabetes, Hypertension",2023-02-15 to 2023-02-25,"Blood Test: High blood sugar levels, High blood pressure","Echocardiogram: Normal, Kidney ultrasound: Normal",None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Blood sugar monitoring"
+24,30,F,None,2023-04-05 to 2023-04-15,Blood Test: Normal,X-ray: Fractured bone,None,None,"Pain, Swelling","Deformity, Limited range of motion","Splint, Pain relief medication"
+25,57,M,"Hypertension, Kidney disease",2023-03-10 to 2023-03-20,"Blood Test: High blood pressure, Elevated creatinine levels",Renal ultrasound: Enlarged kidneys,None,"Smoking, Family history of kidney disease","Fatigue, Swelling in legs",High blood pressure,"Medications, Dialysis"
+26,44,F,Migraine,2023-02-20 to 2023-02-28,Blood Test: Normal,None,None,None,"Severe headache, Nausea","Sensitivity to light, Visual disturbances",Pain relief medication
+27,68,M,"Coronary artery disease, Diabetes",2023-05-01 to 2023-05-10,"Blood Test: High cholesterol levels, High blood sugar levels",Echocardiogram: Reduced heart function,None,"Smoking, Sedentary lifestyle","Chest pain, Fatigue",Irregular heart rhythm,"Medications, Lifestyle changes"
+28,38,F,Asthma,2023-03-15 to 2023-03-25,"Blood Test: Normal, Pulmonary Function Test: Decreased lung function",None,None,None,"Shortness of breath, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+29,52,M,"Hypertension, Diabetes",2023-04-18 to 2023-04-25,"Blood Test: High blood pressure, High blood sugar levels","Echocardiogram: Normal, Kidney ultrasound: Normal",None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Blood sugar monitoring"
+30,41,F,Hypothyroidism,2023-03-05 to 2023-03-15,Blood Test: Low thyroid hormone levels,Thyroid ultrasound: Enlarged thyroid gland,None,Family history of thyroid disorders,"Fatigue, Weight gain","Dry skin, Hair loss",Thyroid hormone replacement therapy
+31,45,M,None,2023-05-12 to 2023-05-20,Blood Test: Normal,None,None,None,None,None,Symptomatic treatment
+32,63,F,"Hypertension, Osteoporosis",2023-02-28 to 2023-03-08,"Blood Test: High blood pressure, Bone density scan: Low bone mass",None,None,Sedentary lifestyle,None,"Decreased height, Fractured bone","Medications, Physical therapy"
+33,37,M,Asthma,2023-01-15 to 2023-01-25,"Blood Test: Normal, Pulmonary Function Test: Decreased lung function",None,None,"Smoking, Family history of asthma","Shortness of breath, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+34,55,F,Hypothyroidism,2023-05-01 to 2023-05-10,Blood Test: Low thyroid hormone levels,Thyroid ultrasound: Enlarged thyroid gland,None,Family history of thyroid disorders,"Fatigue, Weight gain","Dry skin, Hair loss",Thyroid hormone replacement therapy
+35,49,M,"Hypertension, Diabetes",2023-04-10 to 2023-04-20,"Blood Test: High blood pressure, High blood sugar levels",Echocardiogram: Reduced heart function,None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Blood sugar monitoring"
+36,59,F,None,2023-03-18 to 2023-03-26,Blood Test: Normal,None,None,None,None,,
+37,45,M,Diabetes,2023-04-05 to 2023-04-12,Blood Test: High blood sugar,None,None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Dietary changes"
+38,62,F,None,2023-02-18 to 2023-02-25,Blood Test: Normal,MRI: Normal,None,None,None,None,None
+39,55,M,Hypertension,2023-01-10 to 2023-01-18,Blood Test: High blood pressure,None,None,"Sedentary lifestyle, Family history of HAI",None,"High blood pressure, Fever",Antibiotics
+40,68,F,Asthma,2023-05-01 to 2023-05-10,Blood Test: Normal,Chest X-ray: Infiltrate,Sputum culture,"Exposure to allergens, Smoking","Shortness of breath, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+41,50,M,None,2023-03-15 to 2023-03-25,Blood Test: Normal,None,None,None,"Fever, Headache",None,Symptomatic treatment
+6,37,F,None,2023-06-05 to 2023-06-12,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Osteoporosis","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+7,70,M,None,2023-04-18 to 2023-04-25,Blood Test: High cholesterol,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI",Chest pain,Abnormal heart sounds,"Medications, Lifestyle changes"
+8,49,F,None,2023-03-10 to 2023-03-18,Blood Test: Normal,None,None,None,None,None,None
+9,62,M,Diabetes,2023-02-01 to 2023-02-10,Blood Test: High blood sugar,CT scan: Mass in abdomen,None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Dietary changes"
+10,57,F,Asthma,2023-01-15 to 2023-01-25,"Blood Test: Normal, Pulmonary Function Test: Decreased lung function",X-ray: Chest congestion,Sputum culture,"Exposure to allergens, Family history of asthma","Shortness of breath, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+11,42,M,Hypertension,2023-06-01 to 2023-06-10,Blood Test: High blood pressure,None,None,"Sedentary lifestyle, Family history of HAI","Headache, Dizziness",High blood pressure,"Medications, Lifestyle changes"
+12,55,F,None,2023-05-10 to 2023-05-18,Blood Test: Normal,MRI: Normal,None,None,None,None,None
+1,45,Male,"Asthma, Diabetes",2023-04-15 to 2023-04-20,Blood: Normal,Urine: Normal,X-Ray: Normal,None,None,"Fever, Cough, Fatigue","Elevated heart rate, Low oxygen saturation"
+2,32,Female,"Hypertension, Obesity",2023-04-18 to 2023-04-23,Blood: Elevated WBC count,Urine: Normal,CT Scan: Bilateral infiltrates,None,"Smoking, Obesity","Cough, Shortness of breath",Rapid breathing
+3,56,Male,"Heart disease, Diabetes",2023-04-16 to 2023-04-25,Blood: Elevated troponin levels,Urine: Normal,Echocardiogram: Decreased ejection fraction,None,"Smoking, Diabetes","Chest pain, Fatigue",Irregular heartbeat
+4,68,Female,"Hypertension, Arthritis",2023-04-19 to 2023-04-30,Blood: Normal,Urine: Normal,MRI: Degenerative changes in the joints,None,Obesity,"Joint pain, Stiffness",Swelling
+5,72,Male,"COPD, Hypertension",2023-04-21 to 2023-05-01,Blood: Elevated CO2 levels,Urine: Normal,Pulmonary Function Test: Decreased lung capacity,None,Smoking,"Shortness of breath, Chronic cough",Wheezing
+6,49,Female,None,2023-04-22 to 2023-04-28,Blood: Normal,Urine: Normal,X-Ray: Normal,None,"Obesity, Sedentary lifestyle","Fatigue, Muscle weakness",None
+7,60,Male,"Diabetes, Obesity",2023-04-25 to 2023-05-03,Blood: Elevated blood glucose levels,Urine: Normal,CT Scan: Enlarged liver,None,"Smoking, Alcohol consumption","Fatigue, Abdominal pain",Jaundice
+9,64,Male,"Hypertension, Diabetes",2023-05-02 to 2023-05-10,Blood: Elevated cholesterol levels,Urine: Normal,ECG: Irregular heartbeat,None,"Smoking, Sedentary lifestyle","Fatigue, Chest discomfort",Palpitations
+10,38,Female,None,2023-05-05 to 2023-05-08,Blood: Normal,Urine: Normal,MRI: Normal,None,None,None,None
+11,27,Male,Asthma,2023-05-07 to 2023-05-11,Blood: Normal,Urine: Normal,X-Ray: Mild bronchial congestion,None,None,"Cough, Wheezing",None
+12,43,Female,"Obesity, Hypertension",2023-05-09 to 2023-05-15,Blood: Elevated blood pressure,Urine: Normal,Ultrasound: Fatty liver,None,"Smoking, Sedentary lifestyle",None,None
+13,51,Male,"Diabetes, Heart disease",2023-05-12 to 2023-05-16,Blood: Elevated HbA1c levels,Urine: Normal,Echocardiogram: Reduced ejection fraction,None,"Smoking, Diabetes","Fatigue, Shortness of breath",Irregular heartbeat
+14,36,Female,None,2023-05-13 to 2023-05-15,Blood: Normal,Urine: Normal,CT Scan: Normal,None,Obesity,None,None
+15,61,Male,"Hypertension, Diabetes",2023-05-14 to 2023-05-16,Blood: Elevated blood pressure,Urine: Normal,MRI: Small cerebral infarct,None,"Smoking, Diabetes",None,None
+16,48,Female,None,2023-05-15 to 2023-05-17,Blood: Normal,Urine: Normal,X-Ray: Normal,None,None,None,None
+6,52,F,Asthma,2023-05-10 to 2023-05-18,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+7,38,M,None,2023-04-01 to 2023-04-08,Blood Test: Normal,None,None,None,"Fever, Headache",None,Symptomatic treatment
+8,45,F,Diabetes,2023-03-15 to 2023-03-22,Blood Test: High blood sugar,MRI: Abnormal,None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Dietary changes"
+9,61,M,Hypertension,2023-02-10 to 2023-02-18,Blood Test: High blood pressure,None,None,"Sedentary lifestyle, Family history of HAI","Headache, Dizziness",High blood pressure,"Medications, Lifestyle changes"
+10,54,F,None,2023-01-05 to 2023-01-12,Blood Test: Normal,CT scan: Abnormal,None,None,None,"Abdominal pain, Nausea","Medications, Lifestyle changes"
+11,42,M,Diabetes,2023-06-01 to 2023-06-10,Blood Test: High blood sugar,None,None,"Obesity, Sedentary lifestyle","Fatigue, Increased thirst",None,"Medications, Dietary changes"
+12,57,F,None,2023-05-10 to 2023-05-18,Blood Test: Normal,MRI: Normal,None,None,None,None,None
+14,48,F,Diabetes,2023-07-02 to 2023-07-10,Blood Test: High blood sugar,X-ray: Lung consolidation,Sputum culture,"Obesity, Sedentary lifestyle","Cough, Fever","Rapid breathing, Chest discomfort","Antibiotics, Insulin"
+15,60,M,None,2023-06-25 to 2023-07-02,Blood Test: Normal,None,None,None,"Fatigue, Muscle weakness",None,"Supportive care, Rest"
+16,53,F,Asthma,2023-06-15 to 2023-06-23,Blood Test: Normal,CT scan: Sinus infection,None,"Exposure to allergens, Family history of asthma","Nasal congestion, Sneezing",None,Inhaler medication
+17,42,M,None,2023-06-01 to 2023-06-10,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+18,70,F,Diabetes,2023-05-20 to 2023-05-30,Blood Test: High blood sugar,MRI: Lumbar disc herniation,None,"Obesity, Sedentary lifestyle","Back pain, Leg numbness",Limited range of motion,"Medications, Physical therapy"
+19,55,M,None,2023-05-15 to 2023-05-22,Blood Test: Normal,None,None,None,None,None,None
+20,63,F,Hypertension,2023-05-05 to 2023-05-12,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+22,59,F,None,2023-04-25 to 2023-05-02,Blood Test: Normal,CT scan: Tumor,None,None,"Fatigue, Weight loss",None,Surgical resection
+23,44,M,Asthma,2023-04-20 to 2023-04-27,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Shortness of breath, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+24,68,F,Hypertension,2023-04-15 to 2023-04-23,Blood Test: High blood pressure,MRI: Brain tumor,None,"Sedentary lifestyle, Family history of HAI","Headache, Dizziness",High blood pressure,"Medications, Lifestyle changes"
+25,52,M,Diabetes,2023-04-10 to 2023-04-17,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+26,57,F,None,2023-03-25 to 2023-04-01,Blood Test: Normal,None,None,None,None,None,None
+27,47,M,None,2023-03-20 to 2023-03-27,Blood Test: Normal,CT scan: Abnormal,None,None,None,"Abdominal pain, Nausea","Medications, Lifestyle changes"
+28,62,F,Hypertension,2023-03-15 to 2023-03-22,Blood Test: High blood pressure,None,None,"Sedentary lifestyle, Family history of HAI","Headache, Dizziness",High blood pressure,"Medications, Lifestyle changes"
+30,54,F,None,2023-02-25 to 2023-03-03,Blood Test: Normal,MRI: Lumbar disc herniation,None,"Obesity, Sedentary lifestyle","Back pain, Leg numbness",Limited range of motion,"Medications, Physical therapy"
+31,42,M,Asthma,2023-02-20 to 2023-02-27,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+32,66,F,Hypertension,2023-02-15 to 2023-02-23,Blood Test: High blood pressure,X-ray: Heart enlargement,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+33,46,M,Diabetes,2023-02-10 to 2023-02-17,Blood Test: High blood sugar,CT scan: Pancreatic tumor,None,"Obesity, Sedentary lifestyle","Abdominal pain, Weight loss",None,Surgical resection
+34,61,F,None,2023-01-25 to 2023-02-02,Blood Test: Normal,None,None,None,None,None,None
+35,49,M,Asthma,2023-01-20 to 2023-01-27,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+36,64,F,None,2023-01-15 to 2023-01-23,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+38,57,F,None,2023-01-10 to 2023-01-17,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+39,45,M,Asthma,2022-12-25 to 2023-01-02,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+40,69,F,Hypertension,2022-12-20 to 2022-12-28,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+41,47,M,Diabetes,2022-12-15 to 2022-12-23,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+42,62,F,None,2022-11-30 to 2022-12-07,Blood Test: Normal,None,None,None,None,None,None
+43,48,M,Asthma,2022-11-25 to 2022-12-02,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+44,63,F,None,2022-11-20 to 2022-11-28,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+46,53,F,None,2022-11-15 to 2022-11-23,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+47,41,M,Asthma,2022-10-30 to 2022-11-06,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+48,70,F,Hypertension,2022-10-25 to 2022-11-02,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+49,48,M,Diabetes,2022-10-20 to 2022-10-28,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+50,64,F,None,2022-10-05 to 2022-10-12,Blood Test: Normal,None,None,None,None,None,None
+51,50,M,Asthma,2022-09-30 to 2022-10-07,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+52,65,F,None,2022-09-25 to 2022-10-03,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+54,55,F,None,2022-09-20 to 2022-09-28,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+55,39,M,Asthma,2022-09-05 to 2022-09-12,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+56,71,F,Hypertension,2022-08-30 to 2022-09-06,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+57,49,M,Diabetes,2022-08-25 to 2022-09-02,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+58,66,F,None,2022-08-10 to 2022-08-18,Blood Test: Normal,None,None,None,None,None,None
+59,43,M,Asthma,2022-08-05 to 2022-08-12,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+60,67,F,None,2022-07-31 to 2022-08-07,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+62,57,F,None,2022-07-26 to 2022-08-02,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+63,42,M,Asthma,2022-07-11 to 2022-07-18,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+64,72,F,Hypertension,2022-07-06 to 2022-07-13,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+65,50,M,Diabetes,2022-07-01 to 2022-07-08,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+66,68,F,None,2022-06-16 to 2022-06-23,Blood Test: Normal,None,None,None,None,None,None
+67,44,M,Asthma,2022-06-11 to 2022-06-18,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+68,69,F,None,2022-06-06 to 2022-06-13,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+70,59,F,None,2022-06-01 to 2022-06-08,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+71,40,M,Asthma,2022-05-17 to 2022-05-24,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+72,73,F,Hypertension,2022-05-12 to 2022-05-19,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+73,51,M,Diabetes,2022-05-07 to 2022-05-14,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+74,70,F,None,2022-04-22 to 2022-04-29,Blood Test: Normal,None,None,None,None,None,None
+75,45,M,Asthma,2022-04-17 to 2022-04-24,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+76,74,F,None,2022-04-12 to 2022-04-19,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+86,63,F,None,2022-02-11 to 2022-02-18,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+87,42,M,Asthma,2022-01-27 to 2022-02-03,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+88,77,F,Hypertension,2022-01-22 to 2022-01-29,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+89,53,M,Diabetes,2022-01-17 to 2022-01-24,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+90,72,F,None,2022-01-01 to 2022-01-08,Blood Test: Normal,None,None,None,None,None,None
+91,47,M,Asthma,2021-12-17 to 2021-12-24,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+92,78,F,None,2021-12-12 to 2021-12-19,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+94,55,F,None,2021-12-07 to 2021-12-14,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+95,43,M,Asthma,2021-11-23 to 2021-11-30,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+96,79,F,Hypertension,2021-11-18 to 2021-11-25,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+97,54,M,Diabetes,2021-11-13 to 2021-11-20,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+98,73,F,None,2021-10-27 to 2021-11-03,Blood Test: Normal,None,None,None,None,None,None
+99,48,M,Asthma,2021-10-22 to 2021-10-29,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+100,80,F,None,2021-10-17 to 2021-10-24,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+102,56,F,None,2021-10-12 to 2021-10-19,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+103,44,M,Asthma,2021-09-28 to 2021-10-05,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+104,81,F,Hypertension,2021-09-23 to 2021-09-30,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+105,55,M,Diabetes,2021-09-18 to 2021-09-25,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+106,74,F,None,2021-09-02 to 2021-09-09,Blood Test: Normal,None,None,None,None,None,None
+107,49,M,Asthma,2021-08-28 to 2021-09-04,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+108,82,F,None,2021-08-23 to 2021-08-30,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+110,57,F,None,2021-08-18 to 2021-08-25,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+111,45,M,Asthma,2021-08-03 to 2021-08-10,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+112,83,F,Hypertension,2021-07-29 to 2021-08-05,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+113,56,M,Diabetes,2021-07-24 to 2021-07-31,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+114,75,F,None,2021-07-08 to 2021-07-15,Blood Test: Normal,None,None,None,None,None,None
+115,50,M,Asthma,2021-07-03 to 2021-07-10,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+116,84,F,None,2021-06-28 to 2021-07-05,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+118,58,F,None,2021-06-23 to 2021-06-30,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+119,46,M,Asthma,2021-06-08 to 2021-06-15,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+120,85,F,Hypertension,2021-06-03 to 2021-06-10,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+121,57,M,Diabetes,2021-05-19 to 2021-05-26,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+122,76,F,None,2021-05-14 to 2021-05-21,Blood Test: Normal,None,None,None,None,None,None
+123,51,M,Asthma,2021-04-29 to 2021-05-06,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+124,86,F,None,2021-04-24 to 2021-05-01,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+126,59,F,None,2021-04-19 to 2021-04-26,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+127,47,M,Asthma,2021-04-04 to 2021-04-11,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+128,87,F,Hypertension,2021-03-30 to 2021-04-06,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+129,58,M,Diabetes,2021-03-15 to 2021-03-22,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+130,77,F,None,2021-03-10 to 2021-03-17,Blood Test: Normal,None,None,None,None,None,None
+131,52,M,Asthma,2021-02-23 to 2021-03-02,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+132,88,F,None,2021-02-18 to 2021-02-25,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+134,60,F,None,2021-02-13 to 2021-02-20,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+135,48,M,Asthma,2021-01-29 to 2021-02-05,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+136,89,F,Hypertension,2021-01-24 to 2021-01-31,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+137,59,M,Diabetes,2021-01-09 to 2021-01-16,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+138,78,F,None,2021-01-04 to 2021-01-11,Blood Test: Normal,None,None,None,None,None,None
+139,53,M,Asthma,2020-12-20 to 2020-12-27,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+140,90,F,None,2020-12-15 to 2020-12-22,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+142,61,F,None,2020-12-10 to 2020-12-17,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+143,49,M,Asthma,2020-11-25 to 2020-12-02,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+144,91,F,Hypertension,2020-11-20 to 2020-11-27,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+145,60,M,Diabetes,2020-11-05 to 2020-11-12,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+146,79,F,None,2020-10-31 to 2020-11-07,Blood Test: Normal,None,None,None,None,None,None
+147,54,M,Asthma,2020-10-16 to 2020-10-23,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+148,92,F,None,2020-10-11 to 2020-10-18,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+150,62,F,None,2020-10-06 to 2020-10-13,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+151,50,M,Asthma,2020-09-21 to 2020-09-28,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+152,93,F,Hypertension,2020-09-16 to 2020-09-23,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+153,61,M,Diabetes,2020-09-01 to 2020-09-08,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+154,80,F,None,2020-08-27 to 2020-09-03,Blood Test: Normal,None,None,None,None,None,None
+155,55,M,Asthma,2020-08-12 to 2020-08-19,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+156,94,F,None,2020-08-07 to 2020-08-14,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+158,63,F,None,2020-08-02 to 2020-08-09,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+159,51,M,Asthma,2020-07-18 to 2020-07-25,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+160,95,F,Hypertension,2020-07-13 to 2020-07-20,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+161,62,M,Diabetes,2020-06-28 to 2020-07-05,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+162,81,F,None,2020-06-23 to 2020-06-30,Blood Test: Normal,None,None,None,None,None,None
+163,56,M,Asthma,2020-06-08 to 2020-06-15,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+164,96,F,None,2020-06-03 to 2020-06-10,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+166,64,F,None,2020-05-19 to 2020-05-26,Blood Test: Normal,CT scan: Brain tumor,None,None,"Headache, Dizziness",None,Surgical resection
+167,52,M,Asthma,2020-05-04 to 2020-05-11,Blood Test: Normal,None,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+168,97,F,Hypertension,2020-04-29 to 2020-05-06,Blood Test: High blood pressure,Echocardiogram: Abnormal,None,"Sedentary lifestyle, Family history of HAI","Fatigue, Shortness of breath","High blood pressure, Murmurs","Medications, Lifestyle changes"
+169,63,M,Diabetes,2020-04-14 to 2020-04-21,Blood Test: High blood sugar,X-ray: Fractured bone,None,"Obesity, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
+170,82,F,None,2020-04-09 to 2020-04-16,Blood Test: Normal,None,None,None,None,None,None
+171,57,M,Asthma,2020-03-25 to 2020-04-01,Blood Test: Normal,Chest X-ray: Clear,None,"Exposure to allergens, Family history of asthma","Coughing, Wheezing","Rapid breathing, Chest tightness",Inhaler medication
+172,98,F,None,2020-03-20 to 2020-03-27,Blood Test: Normal,X-ray: Fractured bone,None,"Injury, Sedentary lifestyle","Pain, Swelling","Deformity, Limited range of motion",Pain relief medication
